@@ -1,0 +1,35 @@
+*{
+    margin:0;
+    padding:0;
+    border:0;
+    font-size: 16px;
+}
+header{
+    background-color:darkcyan;
+    width:100%;
+}
+h1{
+    text-align: center;
+}
+.right{
+    padding:5px 0 0 5px;
+    width:800px;
+    float: left;
+    height:75px;
+    margin:1px;
+    border-bottom:1px solid gray;
+}
+.left{
+    line-height: 80px;
+    text-align: center;
+    margin:1px;
+    width:80px;
+    background-color:grey;
+    float: left;
+    height:80px;
+}
+header , .main{
+    width:900px;
+    margin:auto;
+
+}
